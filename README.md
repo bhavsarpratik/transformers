@@ -1,2 +1,2 @@
 # transformers
-Implementations of transformer models in pytorch
+Implementation and use-cases of transformer models 
